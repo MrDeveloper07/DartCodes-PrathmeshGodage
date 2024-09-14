@@ -8,9 +8,6 @@ void main() {
       stdout.write("$a ");
       a++;
     }
-    for (int k = 1; k <= x - 1; k++) {
-      stdout.write(" ");
-    }
     print("");
   }
 }

@@ -21,8 +21,6 @@ void main() {
     for (int j = i; j <= rows; j++) {
       stdout.write('$j ');
     }
-  
-
     print("");
   }
 }
